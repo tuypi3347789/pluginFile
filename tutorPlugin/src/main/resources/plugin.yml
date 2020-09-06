@@ -1,0 +1,10 @@
+name: TutorPlugin
+version: ${project.version}
+main: j0k1r.tutorplugin.TutorPlugin
+api-version: 1.16
+prefix: tutorPlugin
+authors: [j0k1r]
+description: A tutorial plugin
+commands:
+  get:
+    description: get

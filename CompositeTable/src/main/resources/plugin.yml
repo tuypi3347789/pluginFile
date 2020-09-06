@@ -1,0 +1,6 @@
+name: CompositeTable
+version: ${project.version}
+main: j0k1r.compositetable.CompositeTable
+api-version: 1.16
+authors: [j0k1r]
+description: customize composite table

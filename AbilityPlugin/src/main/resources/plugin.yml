@@ -1,0 +1,5 @@
+name: AbilityPlugin
+version: ${project.version}
+main: j0k1r.abilityplugin.AbilityPlugin
+api-version: 1.16
+authors: [j0k1r]

@@ -1,0 +1,14 @@
+name: SQLConnectPlugin
+version: ${project.version}
+main: j0k1r.sqlconnectplugin.SQLConnectPlugin
+api-version: 1.16
+authors: [j0k1r]
+commands:
+  setmotd:
+    description: set join server
+  setspawn:
+    description: set spawn
+  spawn:
+    description: go to spawn
+  getItem:
+    description:  get Item

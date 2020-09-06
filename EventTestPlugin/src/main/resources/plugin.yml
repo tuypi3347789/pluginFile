@@ -1,0 +1,5 @@
+name: EventTestPlugin
+version: ${project.version}
+main: j0k1r.eventtestplugin.EventTestPlugin
+api-version: 1.16
+authors: [j0k1r]
